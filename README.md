@@ -1,4 +1,4 @@
-[![MasterHead](https://miro.medium.com/v2/resize:fit:828/format:webp/1*FRFBpWtkjXrhPrS148P7mg.png)]
+![MasterHead](https://miro.medium.com/v2/resize:fit:828/format:webp/1*FRFBpWtkjXrhPrS148P7mg.png)
 <h1 align="center">Hi 👋, I'm Madhab Chandra</h1>
 <h3 align="center">A passionate full-stack developer from Bangladesh by Python and Django</h3>
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/2552597/screenshots/17000375/media/81cf207db5d7304913689a8ab42905ec.png">
