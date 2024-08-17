@@ -1,7 +1,7 @@
-[![MasterHead](https://blog.eduonix.com/wp-content/uploads/2015/04/15-Most-Popular-Programming-Languages-You-Must-Learn-in-2015.png)]
+[MasterHead](https://miro.medium.com/v2/resize:fit:828/format:webp/1*FRFBpWtkjXrhPrS148P7mg.png)
 <h1 align="center">Hi 👋, I'm Madhab Chandra</h1>
 <h3 align="center">A passionate full-stack developer from Bangladesh by Python and Django</h3>
-<img align="right" alt="coding" width="400" src="https://logopond.com/teplospbru/showcase/detail/309641">
+<img align="right" alt="coding" width="400" src="https://dribbble.com/shots/17000375-The-cat-coder">
 - 🌱 I’m currently learning **Flutter**
 
 - 📫 How to reach me **madhabchandra@gmail.com**
